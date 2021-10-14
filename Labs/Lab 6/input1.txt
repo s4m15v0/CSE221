@@ -1,0 +1,3 @@
+8 //Number of zones
+YRSPFMHI //Zone sequence of the match
+YPSRFMHI //Zone sequence of MagneT’s prediction
